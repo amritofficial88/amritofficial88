@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://x.com/amritangshX2801)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:amritangshu2025.work@gmail.com)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&color=blue&style=flat-square)
 
 ## 💻 Tech Stack:
 
