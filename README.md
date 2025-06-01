@@ -39,10 +39,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Contact Me:
-📧 Email: amritangshu.official@gmail.com
+Email: amritangshu.official@gmail.com
 
 ---
-🔹 *Let's connect and build something amazing together!*
+*Let's connect and build something amazing together!*
 
 
 
