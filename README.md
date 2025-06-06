@@ -4,7 +4,13 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/amritangshu-dey-400940251) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://x.com/amritangshX2801) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:amritangshu2025.work@gmail.com) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amritangshu.official)
+
+<p align="center">
+<br>
+<a href="https://linkedin.com/in/amritangshu-dey-400940251"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="https://x.com/amritangshX2801"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="mailto:amritangshu2025.work@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://medium.com/@amritangshu.official"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&color=blue&style=flat-square)
 
