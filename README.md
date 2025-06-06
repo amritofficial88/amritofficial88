@@ -1,7 +1,7 @@
 # Hi there! I'm Amritangshu Dey 👋
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/amritangshu-dey-400940251) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://x.com/amritangshX2801) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:amritangshu2025.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/amritangshu-dey-400940251) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://x.com/amritangshX2801) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:amritangshu2025.work@gmail.com) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amritangshu.official)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&color=blue&style=flat-square)
 
