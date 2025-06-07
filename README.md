@@ -45,6 +45,23 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+## GitHub Stats:
+- **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/amritofficial88?label=Stars&style=flat-square&color=blue)
+- **Total Commits:** ![Commits](https://img.shields.io/badge/Commits-24.2k-blue)
+- **Total PRs:** ![PRs](https://img.shields.io/badge/PRs-974-blue)
+- **Total Issues:** ![Issues](https://img.shields.io/badge/Issues-191-blue)
+- **Contributed to (last year):** ![Contributions](https://img.shields.io/badge/Repos-1-blue)
+
+## Most Used Languages: 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=dark&hide_border=true)
+
+### Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=amritofficial88&theme=dark&hide_border=true)
+
+### GitHub Activity Graph:
+
+[![Amrit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritofficial88&theme=github-compact)](https://github.com/amritofficial88)
+
 ## Contact Me:
 Email: amritangshu.official@gmail.com
 
