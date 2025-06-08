@@ -46,7 +46,7 @@
 ### GitHub Statistics:
 <div align="center">
   <!-- Top languages used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="35%"/>
 </div>
 
 ### Streak Statistics:
