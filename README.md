@@ -59,13 +59,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### GitHub Stats:
+### Github Stats:
 <div align="center">
   <!-- Top languages used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="35%"/>
 </div>
-
-### Streak Stats:
 
 <p align="center">
   <!-- Contribution streak -->
