@@ -42,7 +42,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Platforms
+### Tools & Platforms:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -56,13 +56,13 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### GitHub Statistics:
+### GitHub Stats:
 <div align="center">
   <!-- Top languages used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="35%"/>
 </div>
 
-### Streak Statistics:
+### Streak Stats:
 
 <p align="center">
   <!-- Contribution streak -->
@@ -76,7 +76,7 @@
 Email: amritangshu.official@gmail.com
 
 ---
-*Let's connect and build something amazing together!*
+Let's connect and build something amazing together!
 
 
 
