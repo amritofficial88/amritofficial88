@@ -54,15 +54,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="45%"/>
 </div>
 
-### Metrics:
+### Streak Stats:
 
 <p align="center">
   <!-- Contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=react-dark&hide_border=true" alt="GitHub Streak" />
-
-
-### Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=amritofficial88&theme=dark&hide_border=true)
 
 ### GitHub Activity Graph:
 
