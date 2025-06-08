@@ -60,9 +60,6 @@
   <!-- Contribution streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=react-dark&hide_border=true" alt="GitHub Streak" />
 
-  <!-- Visitors badge -->
-  <img src="https://komarev.com/ghpvc/?username=amritofficial88&color=blue" alt="Profile Views" />
-</p>
 
 ### Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=amritofficial88&theme=dark&hide_border=true)
