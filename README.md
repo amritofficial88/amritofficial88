@@ -12,7 +12,10 @@
 <a href="https://medium.com/@amritangshu.official"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>&nbsp;
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
 
 ## 💻 Tech Stack:
 
