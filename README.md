@@ -8,7 +8,7 @@
 <p align="center">
 <br>
 <a href="https://linkedin.com/in/amritangshu-dey-400940251"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="https://x.com/amritangshX2801"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=black&style=for-the-badge" alt="Twitter" /></a>&nbsp;
-<a href="mailto:amritangshu2025.work@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:amritangshu2025.work@gmail.com"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://medium.com/@amritangshu.official"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>&nbsp;
 </p>
 
@@ -45,7 +45,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### GitHub Stats:
+### GitHub Statistics:
 <div align="center">
   <!-- Overall Github stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=amritofficial88&show_icons=true&theme=react&border_radius=10&count_private=false" alt="GitHub Stats" width="45%"/>
@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="45%"/>
 </div>
 
-### Streak Stats:
+### Streak Statistics:
 
 <p align="center">
   <!-- Contribution streak -->
