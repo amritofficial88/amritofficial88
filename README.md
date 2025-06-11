@@ -75,7 +75,7 @@
 Email: amritangshu.official@gmail.com
 
 ---
-Let's connect and build something creative!
+Let's connect and collaborate!
 
 
 
