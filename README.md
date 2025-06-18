@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="37%" />
   
   <!-- Contribution streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=react-dark&hide_border=true" alt="GitHub Streak" width="60%" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amritofficial88&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ### ⚡GitHub Activity Graph:
