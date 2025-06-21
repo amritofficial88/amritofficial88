@@ -59,11 +59,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### ⚡Github Stats:
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=tokyonight)
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=tokyonight" alt="GitHub Streak" height="200"/>
+</div>
 
 ### ⚡GitHub Activity Graph:
 
