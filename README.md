@@ -60,10 +60,10 @@
 
 ### ⚡Github Stats:
 <!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=tokyonight)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=tokyonight)
 
 ### ⚡GitHub Activity Graph:
 
