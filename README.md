@@ -60,8 +60,8 @@
 
 ### ⚡Github Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=tokyonight" alt="Top Languages" width="400" height="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=tokyonight" alt="GitHub Streak" width="400" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=tokyonight" alt="Top Languages" width="600" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=tokyonight" alt="GitHub Streak" width="500" height="300"/>
 </div>
 
 ### ⚡GitHub Activity Graph:
