@@ -61,7 +61,7 @@
 ### ⚡Github Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=tokyonight&layout=compact" alt="Top Languages" width="400" height="280"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=tokyonight" alt="GitHub Streak" width="400" height="280"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=tokyonight" alt="GitHub Streak" width="410" height="280"/>
 </div>
 
 ### ⚡GitHub Activity Graph:
