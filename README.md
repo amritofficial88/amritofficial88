@@ -63,7 +63,7 @@
   <!-- Top languages used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages" width="37%" />
   <!-- Contribution streak -->
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amritofficial88&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=amritofficial88&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
 
