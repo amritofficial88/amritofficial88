@@ -72,7 +72,10 @@
 Email: amritangshu.official@gmail.com
 
 ---
-## Let's connect and collaborate!
+<p>
+  <h1 align="center"><b>Let's connect and collaborate!</b></h1>
+</p>
+
 
 
 
