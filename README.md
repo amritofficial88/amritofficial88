@@ -58,6 +58,20 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Cybersecurity Tools:
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-EE4432?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C9B?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-A20000?style=for-the-badge&logo=web&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-F05423?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intel-FF8C00?style=for-the-badge&logo=databricks&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-DC3545?style=for-the-badge&logo=jira&logoColor=white)
+
 ### ⚡Github Stats:
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=default&layout=compact" alt="Top Languages" width="305" height="280"/>       <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=default" alt="GitHub Streak" width="420" height="280"/> 
