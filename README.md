@@ -39,7 +39,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Platforms:
+## Tools & Platforms:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -50,7 +50,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Cybersecurity Tools:
+## Cybersecurity Tools:
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-EE4432?style=for-the-badge&logo=nmap&logoColor=white)
@@ -73,7 +73,7 @@
 
 [![Amrit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritofficial88&theme=github-compact)](https://github.com/amritofficial88)
 
-## Contact Me:
+### Contact Me:
 Email: amritangshu.official@gmail.com
 
 ---
