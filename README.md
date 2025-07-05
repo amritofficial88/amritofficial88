@@ -16,9 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
-[Followers](https://github.com/amritofficial88?tab=followers)
-[Following](https://github.com/amritofficial88?tab=following)
-
 
 ## 💻 Tech Stack:
 
