@@ -76,7 +76,7 @@ Email: amritangshu.official@gmail.com
 
 ---
 <p>
-  <h1 align="center"><b>Let's connect!</b></h1>
+  <h1 align="center"><b>Practice for 21 Days to make it a Habit!</b></h1>
 </p>
   
 
