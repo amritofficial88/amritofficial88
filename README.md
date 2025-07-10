@@ -67,10 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&theme=default&layout=compact" alt="Top Languages" width="305" height="280"/>       <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&theme=default" alt="GitHub Streak" width="420" height="280"/> 
 </div>
 
-<!-- Profile Details & Stats -->
-![](https://raw.githubusercontent.com/amritofficial88/amritofficial88/master/profile-summary-card-output/green_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/amritofficial88/amritofficial88/master/profile-summary-card-output/green_dark/3-stats.svg)
-
 ### ⚡GitHub Activity Graph:
 
 [![Amrit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritofficial88&theme=github-compact)](https://github.com/amritofficial88)
