@@ -6,6 +6,7 @@
 ## 🌐 Socials:
 
 <p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Waving hand GIF" />
 <br>
 <a href="https://linkedin.com/in/amritangshu-dey-400940251"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="https://x.com/amritangshX2801"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="mailto:amritangshu2025.work@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
