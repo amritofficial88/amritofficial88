@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Waving hand GIF" />
   <br>
-  
-  <!-- LinkedIn -->
+
+  <!-- Fixed LinkedIn -->
   <a href="https://linkedin.com/in/amritangshu-dey-400940251">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=03A062" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=03A062&color=03A062" alt="LinkedIn" />
   </a>&nbsp;
 
   <!-- X (Twitter) -->
@@ -26,11 +26,6 @@
   <a href="https://medium.com/@amritangshu.official">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=03A062" alt="Medium" />
   </a>
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=03A062&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 
