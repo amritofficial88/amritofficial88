@@ -9,7 +9,7 @@
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/amritangshu-dey-400940251">
-    <img src="https://img.shields.io/badge/LinkedIn-03A062?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+   <img src="https://img.shields.io/badge/Medium-03A062?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium" />
 </a>
   </a>&nbsp;
 
