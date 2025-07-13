@@ -9,7 +9,7 @@
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/amritangshu-dey-400940251">
-   <img src="https://img.shields.io/badge/Medium-03A062?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium" />
+   <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
   </a>&nbsp;
 
@@ -25,7 +25,7 @@
 
   <!-- Medium -->
   <a href="https://medium.com/@amritangshu.official">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=03A062" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-03A062?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium" />
   </a>
 </p>
 
