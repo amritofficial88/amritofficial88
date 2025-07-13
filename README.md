@@ -4,15 +4,35 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Waving hand GIF" />
-<br>
-<a href="https://linkedin.com/in/amritangshu-dey-400940251"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="https://x.com/amritangshX2801"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="mailto:amritangshu2025.work@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://medium.com/@amritangshu.official"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Waving hand GIF" />
+  <br>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/amritangshu-dey-400940251">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=03A062" alt="LinkedIn" />
+  </a>&nbsp;
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/amritangshX2801">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=03A062" alt="X" />
+  </a>&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:amritangshu2025.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=03A062" alt="Gmail" />
+  </a>&nbsp;
+
+  <!-- Medium -->
+  <a href="https://medium.com/@amritangshu.official">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=03A062" alt="Medium" />
+  </a>
 </p>
+
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=03A062&label=Profile+Views" alt="Profile Views"/>
 </p>
+
 
 ## Tech Stack
 
