@@ -64,7 +64,7 @@
 ### ⚡Github Stats:
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&hide_border=true&bg_color=000000&title_color=03A062&text_color=03A062" alt="Top Languages" width="305" height="280"/>       
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&hide_border=true&background=000000&ring=03A062&fire=03A062&currStreakLabel=03A062&sideLabels=03A062&currStreakNum=03A062&dates=03A062&stroke=03A062" alt="GitHub Streak" width="420" height="280"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&hide_border=true&background=000000&ring=03A062&fire=03A062&currStreakLabel=03A062&sideLabels=03A062&currStreakNum=03A062&dates=03A062&sideNums=03A062&border=03A062" alt="GitHub Streak" width="420" height="280"/> 
 </div>
 
 
