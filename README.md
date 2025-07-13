@@ -72,8 +72,11 @@
 
 [![Amrit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritofficial88&theme=github-compact)](https://github.com/amritofficial88)
 
-### Contact Me:
-Email: amritangshu.official@gmail.com
+<h3 align="center" style="color:#03A062; font-family:monospace;">Contact Me:</h3>
+
+<div align="center">
+  <p><code style="color:#03A062; font-family:monospace;">Email: <a href="mailto:amritangshu.official@gmail.com" style="color:#03A062;">amritangshu.official@gmail.com</a></code></p>
+</div>
 
 ---
 <p>
