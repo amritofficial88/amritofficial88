@@ -46,7 +46,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=03A062&color=03A062)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=03A062&color=03A062)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=03A062&color=03A062)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=03A062&color=03A062)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=03A062&color=03A062)
 ![TFF](https://img.shields.io/badge/TensorFlow_Federated-000000?style=for-the-badge&logo=tensorflow&logoColor=03A062&color=03A062)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=03A062&color=03A062)
@@ -57,7 +56,7 @@
 
 ## Tools & Platforms
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=03A062&color=03A062)
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=03A062&color=03A062)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=03A062&color=03A062)
 ![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=03A062&color=03A062)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=03A062&color=03A062)
@@ -73,10 +72,9 @@
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=03A062&color=03A062)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=03A062&color=03A062)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=03A062&color=03A062)
-![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=web&logoColor=03A062&color=03A062)
+![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=web&logoColor=03A062&color=03A062)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=03A062&color=03A062)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=03A062&color=03A062)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-000000?style=for-the-badge&logo=amazonaws&logoColor=03A062&color=03A062)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=03A062&color=03A062)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intel-000000?style=for-the-badge&logo=databricks&logoColor=03A062&color=03A062)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-000000?style=for-the-badge&logo=jira&logoColor=03A062&color=03A062)
