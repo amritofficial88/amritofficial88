@@ -99,7 +99,7 @@
 
 ---
 <p>
-  <h1 align="center"><b>"Practice for 21 Days to make it a Habit!"</b></h1>
+  <h1 align="center"><b>"Practice any thing for 21 Days just to make it a Habit!"</b></h1>
 </p>
   
 
