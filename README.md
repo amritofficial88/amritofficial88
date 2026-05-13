@@ -180,7 +180,7 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badge.s3.amazonaws.com/deamritangshuSOC.png)](https://tryhackme.com/p/deamritangshuSOC)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com)
 
 > **90+ labs completed · Top 7% Globally · 25+ Blue-Team Challenges**
 > 
