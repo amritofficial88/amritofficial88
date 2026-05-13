@@ -205,13 +205,12 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 ## `$ github_stats --dashboard`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&hide_border=true&bg_color=000000&title_color=03A062&text_color=03A062" alt="Top Languages" width="320"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritofficial88&hide_border=true&background=000000&ring=03A062&fire=03A062&currStreakLabel=03A062&sideLabels=03A062&currStreakNum=03A062&dates=03A062&sideNums=03A062&border=03A062" alt="GitHub Streak" width="440"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=amritofficial88&show_icons=true&hide_border=true&bg_color=000000&title_color=03A062&icon_color=03A062&text_color=03A062&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&hide_border=true&bg_color=000000&title_color=03A062&text_color=03A062&langs_count=8" alt="Top Languages" width="320"/>
 </div>
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=amritofficial88&hide_border=true&background=000000&ring=03A062&fire=03A062&currStreakLabel=03A062&sideLabels=03A062&currStreakNum=03A062&dates=03A062&sideNums=03A062&stroke=03A062" alt="GitHub Streak" width="700"/>
+</div>
 <div align="center">
 
 [![Amritangshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritofficial88&theme=github-compact&bg_color=000000&color=03A062&line=03A062&point=ffffff&area=true&hide_border=true)](https://github.com/amritofficial88)
