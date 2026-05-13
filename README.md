@@ -37,7 +37,7 @@ Languages   : English · Hindi · Bengali · Japanese
 
 ## `$ cat about_me.txt`
 
-> Cybersecurity professional specializing in **SOC operations**, **threat detection engineering**, and **blue-team analysis**. Hands-on experience from a real-world SOC internship at **IRCTC (Indian Railways)**, where I cut initial investigation time by **~30%** using a 2,000+ IOC threat repository.
+> Cybersecurity enthusiast specializing in **SOC operations**, **threat detection engineering**, and **blue-team analysis**. Hands-on experience from a real-world internship at **IRCTC (Indian Railways)**, where I cut initial investigation time by **~30%** using a 2,000+ IOC threat repository.
 >
 > I don't just study attacks — I build detections for them. I've engineered **10+ Splunk & Sigma rules** mapped to **MITRE ATT&CK**, investigated brute-force attempts, PowerShell misuse, and anomalous process execution, and completed **90+ labs on TryHackMe** (top 7% globally). I track CVEs independently, analyze root causes, CVSS scores, and patch timelines to stay ahead of evolving threat landscapes.
 
