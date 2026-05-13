@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=03A062)](https://x.com/amritangshX2801)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=03A062)](mailto:workspace.amritangshu@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-03A062?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@amritangshu.official)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=03A062)]([https://github.com/amritofficial88](https://amritangshu2026work-profile.github.io/amritangshu-work-portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=03A062)](https://amritangshu2026work-profile.github.io/amritangshu-work-portfolio/))
 
 <br/>
 
