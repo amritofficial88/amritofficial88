@@ -205,16 +205,18 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 ## `$ github_stats --dashboard`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amritofficial88&show_icons=true&hide_border=true&bg_color=000000&title_color=03A062&icon_color=03A062&text_color=03A062&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritofficial88&layout=compact&hide_border=true&bg_color=000000&title_color=03A062&text_color=03A062&langs_count=8" alt="Top Languages" width="320"/>
+<!-- Single panoramic card: contribution graph + commit stats + language breakdown -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritofficial88&theme=github_dark" width="100%" alt="GitHub Profile Summary"/>
 </div>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=amritofficial88&hide_border=true&background=000000&ring=03A062&fire=03A062&currStreakLabel=03A062&sideLabels=03A062&currStreakNum=03A062&dates=03A062&sideNums=03A062&stroke=03A062" alt="GitHub Streak" width="700"/>
+<!-- Stats + Languages side by side in one row -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritofficial88&theme=github_dark" width="32%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritofficial88&theme=github_dark" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritofficial88&theme=github_dark" width="32%" alt="Most Commit Language"/>
 </div>
 <div align="center">
-
-[![Amritangshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amritofficial88&theme=github-compact&bg_color=000000&color=03A062&line=03A062&point=ffffff&area=true&hide_border=true)](https://github.com/amritofficial88)
-
+<!-- GitHub Trophies — single row, full width -->
+<img src="https://github-profile-trophy.vercel.app/?username=amritofficial88&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
