@@ -105,6 +105,7 @@ Python-based FIM tool using **cryptographic baselines** to detect unauthorized f
 ---
 
 ### 🔴 [Secure EHR Analytics using Federated Learning & Homomorphic Encryption](https://github.com/amritofficial88/Secure-EHR-Analytics-using-FL-and-HE)
+> `Jun 2025 – Sep 2025`
 
 Privacy-preserving ML framework for Electronic Health Records. Combines **Federated Learning** (TFF) with **Homomorphic Encryption** for training on sensitive data without exposing it — addressing real-world healthcare data privacy under regulations like HIPAA.
 
@@ -113,6 +114,7 @@ Privacy-preserving ML framework for Electronic Health Records. Combines **Federa
 ---
 
 ### 🟣 [IrisShield — Biometric Recognition System](https://github.com/amritofficial88/IrisShield_Bio-Metric-Recognition)
+> `Dec 2025 – Jan 2026`
 
 Iris recognition system using OpenCV: preprocessing, feature extraction, iris code generation, and best-match comparison. Practical implementation of biometric authentication used in physical access control and identity verification systems.
 
@@ -225,7 +227,7 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 | Channel | Address |
 |---|---|
 | 📧 Email | [workspace.amritangshu@gmail.com](mailto:workspace.amritangshu@gmail.com) |
-| 💼 LinkedIn | [amritangshu-d-400940251](https://www.linkedin.com/in/amritangshu-d-400940251/) |
+| 💼 LinkedIn | [amritangshu-d-400940251]([https://www.linkedin.com/in/amritangshu-d-400940251/](https://www.linkedin.com/in/amritangshu-dey-infosec/)) |
 | 🐦 X / Twitter | [@amritangshX2801](https://x.com/amritangshX2801) |
 | ✍️ Medium | [@amritangshu.official](https://medium.com/@amritangshu.official) |
 
