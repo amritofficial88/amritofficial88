@@ -13,7 +13,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=03A062&label=Profile+Views)](https://github.com/amritofficial88)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
 [![CTF](https://img.shields.io/badge/CTF-3rd_Place_VITB_2025-000000?style=for-the-badge&logo=hackthebox&logoColor=03A062)](https://github.com/amritofficial88)
 
 </div>
@@ -28,7 +28,7 @@ Role        : SOC Analyst · Blue Teamer · Security Researcher
 Education   : B.Tech CSE — Cyber Security & Digital Forensics
               Vellore Institute of Technology, Bhopal (CGPA: 8.70)
 Graduating  : April 2026
-Location    : India 🇮🇳  (Open to Remote / Relocation)
+Location    : India 🇮🇳  (Open to Relocation)
 Status      : Actively seeking SOC Analyst / Threat Detection roles
 Languages   : English · Hindi · Bengali · Japanese
 ```
@@ -180,7 +180,7 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
 
 > **90+ labs completed · Top 7% Globally · 25+ Blue-Team Challenges**
 > 
