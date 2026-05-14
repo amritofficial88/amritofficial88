@@ -14,7 +14,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=03A062&label=Profile+Views)](https://github.com/amritofficial88)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
-[![CTF](https://img.shields.io/badge/CTF-Player-000000?style=for-the-badge&logo=hackthebox&logoColor=03A062)](https://github.com/amritofficial88)
+[![Threat](https://img.shields.io/badge/Threat-Researcher-000000?style=for-the-badge&logo=hackthebox&logoColor=03A062)](https://github.com/amritofficial88)
 
 </div>
 
