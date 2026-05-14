@@ -75,7 +75,7 @@ Languages   : English · Hindi · Bengali · Japanese
 
 ---
 
-## `$ ls -la projects/`
+## `$ ls -la major projects/`
 
 ### 🔵 [Windows Log Analysis & Detection Engineering Lab](https://github.com/amritofficial88)
 > `Jan 2026 – Feb 2026`
