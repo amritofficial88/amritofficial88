@@ -29,7 +29,7 @@ Education   : B.Tech CSE — Cyber Security & Digital Forensics
               Vellore Institute of Technology, Bhopal (CGPA: 8.70)
 Graduating  : April 2026
 Location    : India 🇮🇳  (Open to Relocation)
-Status      : Actively seeking SOC Analyst / Threat Detection roles
+Status      : Actively seeking SOC Analyst / Detection Engineering roles or similiar
 Languages   : English · Hindi · Bengali · Japanese
 ```
 
