@@ -193,8 +193,8 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 ## `$ cat currently.md`
 
 ```yaml
-🔭 Working On  : Building CVE tracker — root cause analysis, CVSS scoring, patch timelines
-📚 Learning    : CompTIA Security+ (SY0-701) | Advanced Splunk SPL queries
+🔭 Working On  : Building CVE tracker — root cause analysis, CVSS scoring, patch timelines and many more
+📚 Learning    : CompTIA Security+ (SY0-701) | Advanced Splunk SPL queries | Reseraching on Apple Security
 🤝 Open To     : SOC Analyst · Threat Detection · Blue Team roles (Internship / Full-time)
 🏫 Graduated  : April 2026 — VIT Bhopal (B.Tech CSE — Cyber Security & Digital Forensics)
 📍 Location    : India · Open to Work (Anywhere)
