@@ -228,7 +228,6 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 | Channel | Address |
 |---|---|
 | 📧 Email | [workspace.amritangshu@gmail.com](mailto:workspace.amritangshu@gmail.com) |
-| 💼 LinkedIn | [amritangshu-d-400940251]([https://www.linkedin.com/in/amritangshu-dey-infosec/](https://www.linkedin.com/in/amritangshu-dey-infosec/)) |
 | 🐦 X / Twitter | [@amritangshX2801](https://x.com/amritangshX2801) |
 | ✍️ Medium | [@amritangshu.official](https://medium.com/@amritangshu.official) |
 
