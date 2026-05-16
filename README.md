@@ -182,7 +182,7 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
 
-> **90+ labs completed · Top 7% Globally · 25+ Blue-Team Challenges**
+> **100+ labs completed · Top 7% Globally · 30+ Blue-Team Challenges Solved**
 > 
 > Phishing Detection · Lateral Movement Analysis · Log Correlation · SIEM Challenges
 
