@@ -50,11 +50,11 @@ Languages   : English · Hindi · Bengali · Japanese
 | Metric | Result |
 |--------|--------|
 | 🔍 IOC Repository Built | **2,000+ indicators** |
-| ⏱️ Investigation Time Reduced | **~30%** at IRCTC SOC |
+| ⏱️ Investigation Time Reduced | **~30%** at IR-SOC |
 | 🎯 Splunk/Sigma Detections Written | **10+ rules (MITRE ATT&CK mapped)** |
 | 📉 False Positives Reduced | **40%** (Windows Log Detection Lab) |
-| 🔬 TryHackMe Labs Completed | **90+ labs · Top 7% Globally** |
-| 🔵 Blue Team Challenges Solved | **25+ (phishing, lateral movement, log correlation)** |
+| 🔬 TryHackMe Labs Completed | **100+ labs · Top 7% Globally** |
+| 🔵 Blue Team Challenges Solved | **30+ (phishing, lateral movement, log correlation)** |
 | 🏆 CTF Achievement | **3rd Place — VITB Annual Tech-Fest 2025** |
 
 </div>
