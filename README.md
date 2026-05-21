@@ -28,9 +28,9 @@ Role        : SOC Analyst · Blue Teamer · Security Researcher
 Education   : B.Tech CSE — Cyber Security & Digital Forensics
               Vellore Institute of Technology, Bhopal (CGPA: 8.70)
 Graduating on : April 2026
-Location    : India 🇮🇳  (Open to Relocation)
+Location    : India 🇮🇳  (Open to Relocate)
 Status      : Actively seeking SOC Analyst / Detection Engineering roles or similiar
-Languages   : English · Hindi · Bengali · Japanese
+Languages   : English · Hindi
 ```
 
 ---
@@ -172,7 +172,9 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 | 🛡️ Certified AppSec Practitioner (CAP) | The SecOps Group | ✅ Active |
 | 🔒 SC-900: Security, Compliance & Identity Fundamentals | Microsoft | ✅ Active |
 | 🌐 Certified Fundamentals in Cybersecurity (NSE1 & NSE2) | Fortinet | ✅ Active |
-| 🎯 CompTIA Security+ (SY0-701) | CompTIA | 🔄 In Progress |
+| 🎯 CompTIA Security+ (SY0-701) | CompTIA | 🔄 On Progress |
+| 🏆 Certified SOC Analyst | EC Council | 🔄 On Progress |
+
 
 ---
 
