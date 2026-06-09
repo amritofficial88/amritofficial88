@@ -26,9 +26,9 @@
 Name        : Amritangshu Dey
 Role        : SOC Analyst · Blue Teamer · Security Researcher
 Education   : B.Tech CSE — Cyber Security & Digital Forensics
-              Vellore Institute of Technology, Bhopal (CGPA: 8.70)
-Graduating on : April 2026
-Location    : India 🇮🇳  (Open to Relocate)
+              Vellore Institute of Technology, Bhopal (CGPA: 8.68)
+Graduating  : October 2026
+Location    : Mumbai Metropolitian Region - India 🇮🇳  (Open to Relocate)
 Status      : Actively seeking SOC Analyst / Detection Engineering roles or similiar
 Languages   : English · Hindi
 ```
@@ -52,8 +52,8 @@ Languages   : English · Hindi
 | 🔍 IOC Repository Built | **2,000+ indicators** |
 | ⏱️ Investigation Time Reduced | **~30%** at IR-SOC |
 | 🎯 Splunk/Sigma Detections Written | **10+ rules (MITRE ATT&CK mapped)** |
-| 📉 False Positives Reduced | **40%** (Windows Log Detection Lab) |
-| 🔬 TryHackMe Labs Completed | **100+ labs · Top 7% Globally** |
+| 📉 False Positives Reduced | **40%** (Log Detection Lab) |
+| 🔬 TryHackMe Labs Completed | **100+ labs · Top 5% Globally** |
 | 🔵 Blue Team Challenges Solved | **30+ (phishing, lateral movement, log correlation)** |
 | 🏆 CTF Achievement | **3rd Place — VITB Annual Tech-Fest 2025** |
 
@@ -61,10 +61,10 @@ Languages   : English · Hindi
 
 ---
 
-## `$ cat experience.log`
+## `$ cat experience(as of now).log`
 
 ```
-[2025-05] → [2025-06]  IT Intern @ IRCTC (Indian Railways), New Delhi
+[2025-05] → [2025-07]  Information Technology @ IRCTC (Indian Railways), New Delhi
 │
 ├── Built 2,000+ IOC & threat-keyword repository → -30% investigation time
 ├── Investigated IPS & network security logs (NOC & Payment Gateway)
@@ -77,7 +77,7 @@ Languages   : English · Hindi
 
 ## `$ ls -la major projects/`
 
-### 🔵 [Windows Log Analysis & Detection Engineering Lab](https://github.com/amritofficial88)
+### 🔵 [Log Analysis & Detection Engineering Lab](https://github.com/amritofficial88)
 > `Jan 2026 – Feb 2026`
 
 Performed alert triage on real Windows EVTX logs, developing **10+ Splunk & Sigma detections** mapped to MITRE ATT&CK. Investigated PowerShell misuse, brute-force patterns, and anomalous process execution — reducing false positives by **40%** and improving investigation turnaround by **25%**.
@@ -95,7 +95,7 @@ Monitored IDS alerts from **simulated attacks**, analyzed 25+ security events ag
 
 ---
 
-### 🟢 [Endpoint File Integrity & Monitoring Utility (Local-FIM)](https://github.com/amritofficial88)
+### 🟢 [File Integrity & Monitoring Utility (Local-FIM)](https://github.com/amritofficial88)
 > `Jul 2025 – Aug 2025`
 
 Python-based FIM tool using **cryptographic baselines** to detect unauthorized file/directory changes. Reduced unnoticed tampering risk by **20%** in a simulated local environment. Distinguishes legitimate system activity from suspicious modifications.
@@ -173,7 +173,6 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 | 🔒 SC-900: Security, Compliance & Identity Fundamentals | Microsoft | ✅ Active |
 | 🌐 Certified Fundamentals in Cybersecurity (NSE1 & NSE2) | Fortinet | ✅ Active |
 | 🎯 CompTIA Security+ (SY0-701) | CompTIA | 🔄 On Progress |
-| 🏆 Certified SOC Analyst | EC Council | 🔄 On Progress |
 
 
 ---
@@ -182,9 +181,9 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Global-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_5%25_Global-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
 
-> **100+ labs completed · Top 7% Global · 30+ Blue-Team Challenges Solved**
+> **100+ labs completed · Top 5% Global · 30+ Blue-Team Challenges Solved**
 > 
 > Detection · Lateral Movement Analysis · Log Correlation · SIEM Challenges
 
@@ -196,10 +195,9 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 
 ```yaml
 🔭 Working On  : Building CVE tracker — root cause analysis, CVSS scoring, patch timelines and many more
-📚 Learning    : CompTIA Security+ (SY0-701) | Advanced Splunk SPL queries | Researching on MAC Security
+📚 Learning    : Advanced Splunk SPL queries | Researching on MAC Security
 🤝 Open To     : SOC Analyst · Threat Detection · Blue Team roles (Internship / Full-time)
-🏫 Graduated  : April 2026 — VIT Bhopal (B.Tech CSE — Cyber Security & Digital Forensics)
-📍 Location    : India · Open to Work (Anywhere)
+📍 Location    : Mumbai Metropolitian Region - India · Open to Work (Anywhere)
 ```
 
 ---
