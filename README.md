@@ -13,7 +13,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=03A062&label=Profile+Views)](https://github.com/amritofficial88)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_7%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_5%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
 [![Security](https://img.shields.io/badge/Security-Researcher-000000?style=for-the-badge&logo=hackthebox&logoColor=03A062)](https://github.com/amritofficial88)
 
 </div>
