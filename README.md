@@ -28,7 +28,7 @@ Role        : SOC Analyst · Blue Teamer · Security Researcher
 Education   : B.Tech CSE — Cyber Security & Digital Forensics
               Vellore Institute of Technology, Bhopal (CGPA: 8.68)
 Graduating  : October 2026
-Location    : Mumbai Metropolitian Region - India 🇮🇳  (Open to Relocate)
+Location    : Mumbai Metropolitan Region - India 🇮🇳  (Open to Relocate)
 Status      : Actively seeking SOC Analyst / Detection Engineering roles or similiar
 Languages   : English · Hindi
 ```
@@ -197,7 +197,7 @@ Iris recognition system using OpenCV: preprocessing, feature extraction, iris co
 🔭 Working On  : Building CVE tracker — root cause analysis, CVSS scoring, patch timelines and many more
 📚 Learning    : Advanced Splunk SPL queries | Researching on MAC Security
 🤝 Open To     : SOC Analyst · Threat Detection · Blue Team roles (Internship / Full-time)
-📍 Location    : Mumbai Metropolitian Region - India · Open to Work (Anywhere)
+📍 Location    : Mumbai Metropolitan Region - India · Open to Work (Anywhere)
 ```
 
 ---
