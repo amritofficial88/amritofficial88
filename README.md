@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:0B2426,100:123C32&height=220&section=header&text=AMRITANGSHU%20DEY&fontSize=44&fontColor=E8FFF2&fontAlignY=38&desc=SECURITY%20OPERATIONS%20%7C%20BLUE%20TEAM%20%7C%20THREAT%20DETECTION&descSize=13&descAlignY=58&animation=fadeIn" alt="Amritangshu Dey — SOC Analyst"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=75F0B0&center=true&vCenter=true&width=720&lines=SOC+ANALYST+%7C+BLUE+TEAMER;ALERT+TRIAGE+%7C+THREAT+INVESTIGATION;DETECTION+ENGINEERING+%7C+MITRE+ATT%26CK;MONITOR.+INVESTIGATE.+DETECT.+RESPOND." alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=720&lines=SOC+ANALYST+%7C+BLUE+TEAMER;ALERT+TRIAGE+%7C+THREAT+INVESTIGATION;DETECTION+ENGINEERING+%7C+MITRE+ATT%26CK;MONITOR.+INVESTIGATE.+DETECT.+RESPOND." alt="Typing introduction"/>
 </a>
 
 <br/>
@@ -18,8 +18,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=164B3C&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/badge/FOCUS-SOC%20%2F%20BLUE%20TEAM-164B3C?style=for-the-badge&labelColor=0B1715" alt="SOC and Blue Team"/>
+<img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=4A1018&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/FOCUS-SOC%20%2F%20BLUE%20TEAM-4A1018?style=for-the-badge&labelColor=0B1715" alt="SOC and Blue Team"/>
 
 </div>
 
