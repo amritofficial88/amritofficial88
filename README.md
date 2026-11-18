@@ -1,256 +1,273 @@
-::: {align="center"}
-```{=html}
-<!-- ===================== HERO ===================== -->
+<div align="center">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ HERO ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:0B2426,100:123C32&height=220&section=header&text=AMRITANGSHU%20DEY&fontSize=44&fontColor=E8FFF2&fontAlignY=38&desc=SECURITY%20OPERATIONS%20%7C%20BLUE%20TEAM%20%7C%20THREAT%20DETECTION&descSize=13&descAlignY=58&animation=fadeIn" alt="Amritangshu Dey — SOC Analyst"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=75F0B0&center=true&vCenter=true&width=720&lines=SOC+ANALYST+%7C+BLUE+TEAMER;ALERT+TRIAGE+%7C+THREAT+INVESTIGATION;DETECTION+ENGINEERING+%7C+MITRE+ATT%26CK;MONITOR.+INVESTIGATE.+DETECT.+RESPOND." alt="Typing introduction"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/amritangshu-dey-infosec/"><img src="https://img.shields.io/badge/LinkedIn-0B1715?style=for-the-badge&logo=linkedin&logoColor=75F0B0" alt="LinkedIn"/></a>
+<a href="https://github.com/amritofficial88"><img src="https://img.shields.io/badge/GitHub-0B1715?style=for-the-badge&logo=github&logoColor=75F0B0" alt="GitHub"/></a>
+<a href="https://tryhackme.com/p/deamritangshuSOC"><img src="https://img.shields.io/badge/TryHackMe-0B1715?style=for-the-badge&logo=tryhackme&logoColor=75F0B0" alt="TryHackMe"/></a>
+<a href="https://medium.com/@amritangshu.official"><img src="https://img.shields.io/badge/Medium-0B1715?style=for-the-badge&logo=medium&logoColor=75F0B0" alt="Medium"/></a>
+<a href="mailto:workspace.amritangshu@gmail.com"><img src="https://img.shields.io/badge/Email-0B1715?style=for-the-badge&logo=gmail&logoColor=75F0B0" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=164B3C&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/FOCUS-SOC%20%2F%20BLUE%20TEAM-164B3C?style=for-the-badge&labelColor=0B1715" alt="SOC and Blue Team"/>
+
+</div>
+
+---
+
+## `01  /  OPERATOR PROFILE`
+
+> **I turn security signals into actionable findings.**
+
+I'm **Amritangshu Dey**, a cybersecurity professional focused on **Security Operations, threat investigation, and detection engineering**. I enjoy working with security telemetry, validating alerts, analysing suspicious behaviour, and improving defensive visibility.
+
+My practical experience includes security operations exposure at **IRCTC**, building a repository of **2,000+ IOCs and threat keywords**, and developing Splunk and Sigma detections mapped to **MITRE ATT&CK**.
+
+```yaml
+name: Amritangshu Dey
+role: SOC Analyst | Blue Teamer | Security Researcher
+focus:
+  - Security Monitoring & Alert Triage
+  - Threat Intelligence & IOC Analysis
+  - Detection Engineering
+  - Incident Investigation
+education: B.Tech CSE — Cyber Security & Digital Forensics
+university: VIT Bhopal University
+cgpa: 8.68
+location: Mumbai Metropolitan Region, India
+opportunities: SOC Analyst | Threat Detection | Blue Team
 ```
-`<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:07111f,50:0b2b2b,100:07111f&text=AMRITANGSHU%20DEY&fontColor=7CFFB2&fontSize=42&fontAlignY=42&desc=SOC%20ANALYST%20%7C%20BLUE%20TEAMER%20%7C%20THREAT%20DETECTION&descSize=13&descAlignY=64&animation=fadeIn" width="100%" alt="Amritangshu Dey — SOC Analyst"/>`{=html}
 
-`<br/>`{=html}
+---
 
-`<a href="https://www.linkedin.com/in/amritangshu-dey-infosec/">`{=html}`<img src="https://img.shields.io/badge/LINKEDIN-0B1724?style=for-the-badge&logo=linkedin&logoColor=7CFFB2" alt="LinkedIn"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/amritofficial88">`{=html}`<img src="https://img.shields.io/badge/GITHUB-0B1724?style=for-the-badge&logo=github&logoColor=7CFFB2" alt="GitHub"/>`{=html}`</a>`{=html}
-`<a href="https://tryhackme.com/p/deamritangshuSOC">`{=html}`<img src="https://img.shields.io/badge/TRYHACKME-0B1724?style=for-the-badge&logo=tryhackme&logoColor=7CFFB2" alt="TryHackMe"/>`{=html}`</a>`{=html}
-`<a href="https://medium.com/@amritangshu.official">`{=html}`<img src="https://img.shields.io/badge/MEDIUM-0B1724?style=for-the-badge&logo=medium&logoColor=7CFFB2" alt="Medium"/>`{=html}`</a>`{=html}
-`<a href="mailto:workspace.amritangshu@gmail.com">`{=html}`<img src="https://img.shields.io/badge/EMAIL-0B1724?style=for-the-badge&logo=gmail&logoColor=7CFFB2" alt="Email"/>`{=html}`</a>`{=html}
+## `02  /  SOC SNAPSHOT`
 
-`<br/>`{=html}`<br/>`{=html}
+<div align="center">
 
-`<img src="https://komarev.com/ghpvc/?username=amritofficial88&style=flat-square&color=0b2b2b&label=PROFILE+SIGNALS" alt="Profile views"/>`{=html}
- 
-`<img src="https://img.shields.io/badge/FOCUS-SOC%20%2F%20BLUE%20TEAM-0b2b2b?style=flat-square&labelColor=07111f" alt="SOC Blue Team focus"/>`{=html}
-:::
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/IOC_REPOSITORY-2,000%2B-75F0B0?style=flat-square&labelColor=10231E" alt="IOC repository"/>
+  <br/><sub>Threat indicators</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/INVESTIGATION-~30%25-75F0B0?style=flat-square&labelColor=10231E" alt="Investigation improvement"/>
+  <br/><sub>Faster initial investigation</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/DETECTIONS-10%2B-75F0B0?style=flat-square&labelColor=10231E" alt="Detection rules"/>
+  <br/><sub>Splunk & Sigma rules</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/FALSE_POSITIVES-40%25-75F0B0?style=flat-square&labelColor=10231E" alt="False positive reduction"/>
+  <br/><sub>Reduction in lab</sub>
+</td>
+</tr>
+</table>
 
-------------------------------------------------------------------------
+| FIELD METRIC | RESULT |
+|:--|--:|
+| TryHackMe labs completed | **100+** |
+| TryHackMe global standing | **Top 5%** |
+| Blue Team challenges | **30+** |
+| CTF achievement | **3rd Place — VITB Annual Tech-Fest 2025** |
 
-## `01 // OPERATOR PROFILE`
+</div>
 
-``` text
-NAME        : Amritangshu Dey
-ROLE        : SOC Analyst | Blue Teamer | Security Researcher
-FOCUS       : Security Monitoring, Alert Triage & Threat Detection
-EDUCATION   : B.Tech CSE — Cyber Security & Digital Forensics
-INSTITUTE   : VIT Bhopal University
-CGPA        : 8.68
-LOCATION    : Mumbai Metropolitan Region, India
-AVAILABILITY: Open to SOC / Blue Team opportunities
-```
+---
 
-I work at the intersection of **security operations, threat
-investigation, and detection engineering**. My approach is practical:
-examine the telemetry, validate the signal, understand the behaviour,
-and turn findings into better detection.
+## `03  /  EXPERIENCE`
 
-My hands-on experience includes SOC-oriented investigation workflows at
-**IRCTC**, building an IOC repository of **2,000+ indicators**, and
-developing Splunk and Sigma detections mapped to **MITRE ATT&CK**.
+### Information Technology Intern — IRCTC (Indian Railways)
+`MAY 2025 — JULY 2025` &nbsp;·&nbsp; `NEW DELHI, INDIA`
 
-> **MISSION:** Make suspicious activity visible, investigations sharper,
-> and defensive operations stronger.
+- Built a repository of **2,000+ IOCs and threat keywords**, helping reduce initial investigation time by approximately **30%**.
+- Investigated IPS and network security logs across NOC and Payment Gateway environments.
+- Performed severity assessment and escalation of confirmed high-impact incidents.
+- Analysed network events to distinguish false positives from potential threats.
+- Worked with security investigation workflows and threat-intelligence sources.
 
-------------------------------------------------------------------------
+**Environment:** `Splunk` `VirusTotal` `Network Log Analysis` `MITRE ATT&CK`
 
-## `02 // SOC FIELD METRICS`
+---
 
-::: {align="center"}
-  SIGNAL                                           FIELD RESULT
-  ------------------------------------------- ----------------------
-  IOC & threat-keyword repository                   **2,000+**
-  Initial investigation time improvement            **\~30%**
-  Splunk / Sigma detection rules                     **10+**
-  False-positive reduction in detection lab          **40%**
-  TryHackMe hands-on labs                            **100+**
-  TryHackMe global standing                         **Top 5%**
-  Blue Team challenges                               **30+**
-  VITB Annual Tech-Fest CTF                    **3rd Place · 2025**
-:::
+## `04  /  DETECTION LABS & PROJECTS`
 
-------------------------------------------------------------------------
+<details open>
+<summary><b>01 — Log Analysis & Detection Engineering</b> · Splunk / Sigma</summary>
+<br/>
 
-## `03 // EXPERIENCE : SECURITY OPERATIONS`
+Analysed Windows EVTX telemetry and developed **10+ detection rules** mapped to MITRE ATT&CK. Investigated brute-force patterns, suspicious PowerShell activity, and anomalous process execution. Recorded a **40% reduction in false positives** and a **25% improvement in investigation turnaround** in the lab.
 
-### Information Technology Intern --- IRCTC
+`Splunk` `Sigma` `Windows Event Logs` `MITRE ATT&CK` `PowerShell`
 
-`MAY 2025 — JULY 2025` · `NEW DELHI, INDIA`
+[Explore GitHub projects](https://github.com/amritofficial88)
+</details>
 
--   Built and organized a repository containing **2,000+ IOCs and threat
-    keywords**, helping reduce initial investigation time by
-    approximately **30%**.
--   Investigated IPS and network security logs across NOC and Payment
-    Gateway environments.
--   Assessed event severity and escalated confirmed high-impact
-    incidents.
--   Distinguished false positives from potentially malicious network
-    activity.
--   Worked with security investigation workflows and threat-intelligence
-    sources.
+<details>
+<summary><b>02 — Network Intrusion Detection & Traffic Analysis</b> · Suricata IDS</summary>
+<br/>
 
-**Environment:** `Splunk` `VirusTotal` `Network Log Analysis`
-`MITRE ATT&CK`
+Reviewed IDS alerts from simulated attacks and analysed **25+ security events** against network traffic patterns. Validated potential threats against benign activity and refined detection logic for SOC escalation decisions.
 
-------------------------------------------------------------------------
+`Suricata` `Wireshark` `PCAP Analysis` `Network Security`
 
-## `04 // DETECTION LABS & PROJECTS`
+[Explore GitHub projects](https://github.com/amritofficial88)
+</details>
 
-### `01` --- Log Analysis & Detection Engineering
+<details>
+<summary><b>03 — Local File Integrity Monitoring</b> · Python</summary>
+<br/>
 
-**Splunk · Sigma · Windows Event Logs · MITRE ATT&CK**
+Built a Python-based File Integrity Monitoring utility using cryptographic baselines to identify unauthorized file and directory modifications in a simulated local environment.
 
-Analysed Windows EVTX telemetry and developed **10+ detection rules**
-mapped to MITRE ATT&CK. Investigated brute-force patterns, suspicious
-PowerShell activity, and anomalous process execution. The lab recorded a
-**40% reduction in false positives** and a **25% improvement in
-investigation turnaround**.
+`Python` `SHA Hashing` `File Integrity Monitoring`
 
-[VIEW PROJECTS ↗](https://github.com/amritofficial88)
+[Explore GitHub projects](https://github.com/amritofficial88)
+</details>
 
-### `02` --- Network Intrusion Detection & Traffic Analysis
+<details>
+<summary><b>04 — Secure EHR Analytics</b> · Federated Learning</summary>
+<br/>
 
-**Suricata IDS · Wireshark · PCAP Analysis**
+Developed a privacy-preserving analytics framework combining Federated Learning and Homomorphic Encryption to support model training on sensitive healthcare data.
 
-Reviewed IDS alerts from simulated attacks and analysed **25+ security
-events** against network traffic patterns. Validated potential threats
-against benign activity and refined detection logic for SOC escalation
-decisions.
+`TensorFlow Federated` `Homomorphic Encryption` `Python`
 
-[VIEW PROJECTS ↗](https://github.com/amritofficial88)
+[View repository](https://github.com/amritofficial88/Secure-EHR-Analytics-using-FL-and-HE)
+</details>
 
-### `03` --- Local File Integrity Monitoring
+<details>
+<summary><b>05 — IrisShield: Biometric Recognition</b> · OpenCV</summary>
+<br/>
 
-**Python · Cryptographic Hashing · File Monitoring**
+Implemented an iris-recognition workflow covering image preprocessing, feature extraction, iris-code generation, and best-match comparison.
 
-Built a Python-based FIM utility that uses cryptographic baselines to
-identify unauthorized file and directory changes in a simulated local
-environment.
+`Python` `OpenCV` `Biometric Authentication`
 
-[VIEW PROJECTS ↗](https://github.com/amritofficial88)
+[View repository](https://github.com/amritofficial88/IrisShield_Bio-Metric-Recognition)
+</details>
 
-### `04` --- Secure EHR Analytics
+---
 
-**Federated Learning · Homomorphic Encryption · TensorFlow Federated**
+## `05  /  SECURITY TOOLKIT`
 
-Developed a privacy-preserving analytics framework combining Federated
-Learning and Homomorphic Encryption to support model training on
-sensitive healthcare data.
+<div align="center">
 
-[VIEW REPOSITORY
-↗](https://github.com/amritofficial88/Secure-EHR-Analytics-using-FL-and-HE)
+**SOC & DETECTION**
 
-### `05` --- IrisShield: Biometric Recognition
+<img src="https://skillicons.dev/icons?i=splunk,linux,windows,python,bash,powershell" alt="SOC and scripting tools"/>
 
-**Python · OpenCV · Biometric Authentication**
+`Alert Triage` · `SIEM` · `Splunk` · `Wazuh` · `Sigma` · `MITRE ATT&CK` · `Incident Response` · `Threat Intelligence`
 
-Implemented an iris-recognition workflow covering image preprocessing,
-feature extraction, iris-code generation, and best-match comparison.
+**NETWORK & INVESTIGATION**
 
-[VIEW REPOSITORY
-↗](https://github.com/amritofficial88/IrisShield_Bio-Metric-Recognition)
+<img src="https://skillicons.dev/icons?i=wireshark,nmap,kali,cloudflare" alt="Network and security tools"/>
 
-------------------------------------------------------------------------
+`Wireshark` · `Nmap` · `Suricata` · `PCAP Analysis` · `Digital Forensics` · `OSINT` · `VirusTotal`
 
-## `05 // SECURITY TOOLKIT`
+**SECURITY TESTING & PLATFORMS**
 
-  -----------------------------------------------------------------------
-  DOMAIN                              TOOLS & PRACTICES
-  ----------------------------------- -----------------------------------
-  **SOC Operations**                  Alert Triage · Incident Response ·
-                                      SIEM · Wazuh · Splunk
+`Burp Suite` · `Metasploit` · `OWASP Top 10` · `AWS` · `Microsoft Defender` · `Power BI` · `SQL`
 
-  **Detection Engineering**           Sigma · MITRE ATT&CK · Log
-                                      Correlation · Detection Tuning
+</div>
 
-  **Threat Intelligence**             IOC Analysis · VirusTotal · OSINT ·
-                                      CVE Research
+---
 
-  **Network Security**                Wireshark · Nmap · Suricata · PCAP
-                                      Analysis
+## `06  /  CERTIFICATIONS`
 
-  **Digital Forensics**               Windows Event Logs · Event
-                                      Investigation
+| CERTIFICATION | ISSUER | STATUS |
+|:--|:--|:--:|
+| Certified AppSec Practitioner (CAP) | The SecOps Group | Active |
+| SC-900: Security, Compliance & Identity Fundamentals | Microsoft | Active |
+| NSE 1 & NSE 2 — Cybersecurity Fundamentals | Fortinet | Active |
+| CompTIA Security+ (SY0-701) | CompTIA | In Progress |
 
-  **Security Testing**                Kali Linux · Burp Suite ·
-                                      Metasploit · OWASP Top 10
+---
 
-  **Scripting**                       Python · Bash · PowerShell · SQL
+## `07  /  TRAINING RANGE`
 
-  **Platforms**                       AWS · Microsoft Defender · Power BI
-  -----------------------------------------------------------------------
+<div align="center">
 
-------------------------------------------------------------------------
+<a href="https://tryhackme.com/p/deamritangshuSOC">
+  <img src="https://img.shields.io/badge/TRYHACKME-TOP_5%25_GLOBALLY-164B3C?style=for-the-badge&logo=tryhackme&logoColor=75F0B0" alt="TryHackMe Top 5 percent globally"/>
+</a>
 
-## `06 // CERTIFICATIONS & CREDENTIALS`
+### 100+ LABS COMPLETED · 30+ BLUE TEAM CHALLENGES
 
--   **Certified AppSec Practitioner (CAP)** --- The SecOps Group
--   **SC-900: Security, Compliance & Identity Fundamentals** ---
-    Microsoft
--   **NSE 1 & NSE 2: Certified Fundamentals in Cybersecurity** ---
-    Fortinet
--   **CompTIA Security+ (SY0-701)** --- In Progress
+`Detection` &nbsp; `Lateral Movement Analysis` &nbsp; `Log Correlation` &nbsp; `SIEM Challenges`
 
-------------------------------------------------------------------------
+[Open TryHackMe profile ↗](https://tryhackme.com/p/deamritangshuSOC)
 
-## `07 // TRAINING RANGE`
+</div>
 
-::: {align="center"}
-`<a href="https://tryhackme.com/p/deamritangshuSOC">`{=html}
-`<img src="https://img.shields.io/badge/TRYHACKME-TOP%205%25%20GLOBALLY-0b2b2b?style=for-the-badge&logo=tryhackme&logoColor=7CFFB2" alt="TryHackMe Top 5 percent globally"/>`{=html}
-`</a>`{=html}
+---
 
-**100+ labs completed** · **30+ Blue Team challenges**
+## `08  /  CURRENT OPERATIONS`
 
-`Detection` `Lateral Movement Analysis` `Log Correlation`
-`SIEM Challenges`
-:::
-
-------------------------------------------------------------------------
-
-## `08 // CURRENT OPERATIONS`
-
-``` yaml
+```yaml
 building:
   - CVE tracker
-  - Vulnerability research and CVSS analysis
+  - Root-cause and CVSS analysis
   - Patch timeline tracking
 
 learning:
   - Advanced Splunk SPL
-  - Detection engineering
+  - Detection development
   - macOS security
 
 open_to:
-  - SOC Analyst opportunities
-  - Threat Detection roles
-  - Blue Team internships and full-time roles
+  - SOC Analyst roles
+  - Threat Detection opportunities
+  - Blue Team internships / full-time roles
 ```
 
-------------------------------------------------------------------------
+---
 
-## `09 // ACTIVITY FEED`
+## `09  /  GITHUB TELEMETRY`
 
-::: {align="center"}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritofficial88&theme=github_dark" width="100%" alt="GitHub contribution summary"/>`{=html}
+<div align="center">
 
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritofficial88&theme=github_dark" width="49%" alt="GitHub statistics"/>`{=html}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritofficial88&theme=github_dark" width="49%" alt="Most used languages"/>`{=html}
-:::
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritofficial88&theme=github_dark" alt="GitHub profile contribution summary"/>
 
-------------------------------------------------------------------------
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritofficial88&theme=github_dark" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritofficial88&theme=github_dark" alt="Repository languages"/>
 
-## `10 // ESTABLISH CONNECTION`
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amritofficial88&bg_color=0d1117&color=75f0b0&line=238b68&point=c9ffe2&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
-::: {align="center"}
-### Have a security challenge, collaboration idea, or opportunity?
+</div>
 
-I'm open to connecting with SOC professionals, security researchers, and
-teams working on practical defensive security.
+---
 
-**[LINKEDIN](https://www.linkedin.com/in/amritangshu-dey-infosec/)**   ·
-  **[EMAIL](mailto:workspace.amritangshu@gmail.com)**   ·  
-**[MEDIUM](https://medium.com/@amritangshu.official)**
+## `10  /  CONNECT`
 
-`<br/>`{=html}
+<div align="center">
 
-``` text
-OBSERVE  →  INVESTIGATE  →  DETECT  →  RESPOND  →  IMPROVE
+### Let's talk security.
+
+Open to connecting with SOC professionals, blue teamers, security researchers, and teams building stronger defensive capabilities.
+
+<a href="https://www.linkedin.com/in/amritangshu-dey-infosec/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-164B3C?style=for-the-badge&logo=linkedin&logoColor=75F0B0" alt="Connect on LinkedIn"/></a>
+<a href="mailto:workspace.amritangshu@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-164B3C?style=for-the-badge&logo=gmail&logoColor=75F0B0" alt="Send email"/></a>
+
+<br/><br/>
+
+```text
+[ MONITOR ]  →  [ INVESTIGATE ]  →  [ DETECT ]  →  [ RESPOND ]
 ```
 
-*Stay curious. Verify the signal. Strengthen the defence.*
-:::
+**Stay curious. Verify the signal. Strengthen the defence.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:123C32,50:0B2426,100:050B14&height=100&section=footer" alt="Footer"/>
+
+</div>
