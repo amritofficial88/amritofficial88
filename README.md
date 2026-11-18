@@ -1,259 +1,184 @@
-<div align="center">
+# AMRITANGSHU DEY
+### Security Operations · Threat Detection · Blue Team
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=03A062&center=true&vCenter=true&width=700&lines=Hi+I+am+Amritangshu+Dey.;SOC+Analyst+%7C+Detection+Engineer;Blue+Teamer+%7C+Security+Researcher;MITRE+ATT%26CK+Practitioner)](https://git.io/typing-svg)
+**Detect with precision. Investigate with purpose. Defend with intelligence.**
 
-<br/>
+I'm a cybersecurity professional focused on Security Operations Center (SOC), threat detection, incident investigation, and defensive security. I enjoy turning raw security telemetry into actionable intelligence and building detection capabilities that help identify threats before they escalate.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-03A062?style=for-the-badge&logo=linkedin&logoColor=black)]([https://www.linkedin.com/in/amritangshu-d-400940251/](https://www.linkedin.com/in/amritangshu-dey-infosec/))
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=03A062)](https://x.com/amritangshX2801)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=03A062)](mailto:workspace.amritangshu@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-03A062?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@amritangshu.official)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=03A062)](https://amritangshu2026work-profile.github.io/amritangshu-work-portfolio/)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=amritofficial88&style=for-the-badge&color=03A062&label=Profile+Views)](https://github.com/amritofficial88)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_5%25_Globally-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
-[![Security](https://img.shields.io/badge/Security-Researcher-000000?style=for-the-badge&logo=hackthebox&logoColor=03A062)](https://github.com/amritofficial88)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/amritangshu-dey-infosec/) · [TryHackMe](https://tryhackme.com/p/deamritangshuSOC) · [Portfolio](https://amritangshu2026work-profile.github.io/amritangshu-work-portfolio/) · [Medium](https://medium.com/@amritangshu.official) · [X](https://x.com/amritangshX2801)
 
 ---
 
-## `$ whoami`
+## 01 / PROFILE
 
-```bash
-Name        : Amritangshu Dey
-Role        : SOC Analyst · Blue Teamer · Security Researcher
-Education   : B.Tech CSE — Cyber Security & Digital Forensics
-              Vellore Institute of Technology, Bhopal (CGPA: 8.68)
-Graduating  : October 2026
-Location    : Mumbai Metropolitan Region - India 🇮🇳  (Open to Relocate)
-Status      : Actively seeking SOC Analyst / Detection Engineering roles or similiar
-Languages   : English · Hindi
-```
-
----
-
-## `$ cat about_me.txt`
-
-> Cybersecurity enthusiast specializing in **SOC operations**, **threat detection engineering**, and **blue-team analysis**. I have my first hands-on experience from a real-world internship at **IRCTC**, where I have cut initial investigation time by **~30%** using a 2,000+ IOC threat repository.
->
-> I don't just study attacks — I build detections for them. I've engineered **10+ Splunk & Sigma rules** mapped to **MITRE ATT&CK**, investigated brute-force attempts, PowerShell misuse, and anomalous process execution, and completed **90+ labs on TryHackMe** (top 7% globally and still more to achieve). I track CVEs independently, analyze root causes, CVSS scores, and patch timelines to stay ahead of evolving threat landscapes.
-
----
-
-## `$ soc_metrics --live`
-
-<div align="center">
-
-| Metric | Result |
-|--------|--------|
-| 🔍 IOC Repository Built | **2,000+ indicators** |
-| ⏱️ Investigation Time Reduced | **~30%** at IR-SOC |
-| 🎯 Splunk/Sigma Detections Written | **10+ rules (MITRE ATT&CK mapped)** |
-| 📉 False Positives Reduced | **40%** (Log Detection Lab) |
-| 🔬 TryHackMe Labs Completed | **100+ labs · Top 5% Globally** |
-| 🔵 Blue Team Challenges Solved | **30+ (phishing, lateral movement, log correlation)** |
-| 🏆 CTF Achievement | **3rd Place — VITB Annual Tech-Fest 2025** |
-
-</div>
-
----
-
-## `$ cat experience(as of now).log`
-
-```
-[2025-05] → [2025-07]  Information Technology @ IRCTC (Indian Railways), New Delhi
-│
-├── Built 2,000+ IOC & threat-keyword repository → -30% investigation time
-├── Investigated IPS & network security logs (NOC & Payment Gateway)
-├── Severity assessment & escalation of confirmed high-impact incidents
-├── Differentiated false positives from true threats across network events
-└── Stack: SIEM (Splunk) · VirusTotal · Network Log Analysis · MITRE ATT&CK
-```
-
----
-
-## `$ ls -la major projects/`
-
-### 🔵 [Log Analysis & Detection Engineering Lab](https://github.com/amritofficial88)
-> `Jan 2026 – Feb 2026`
-
-Performed alert triage on real Windows EVTX logs, developing **10+ Splunk & Sigma detections** mapped to MITRE ATT&CK. Investigated PowerShell misuse, brute-force patterns, and anomalous process execution — reducing false positives by **40%** and improving investigation turnaround by **25%**.
-
-`Splunk` `Sigma` `Windows Event Logs (EVTX)` `MITRE ATT&CK` `PowerShell`
-
----
-
-### 🟡 [Network Intrusion Detection & Traffic Analysis (Suricata IDS)](https://github.com/amritofficial88)
-> `Oct 2025 – Nov 2025`
-
-Monitored IDS alerts from **simulated attacks**, analyzed 25+ security events against real traffic patterns. Validated true threats vs benign activity and refined detection logic for SOC-based escalation decisions.
-
-`Suricata IDS` `Network Traffic Analysis` `PCAP Analysis` `IDS Alert Review`
-
----
-
-### 🟢 [File Integrity & Monitoring Utility (Local-FIM)](https://github.com/amritofficial88)
-> `Jul 2025 – Aug 2025`
-
-Python-based FIM tool using **cryptographic baselines** to detect unauthorized file/directory changes. Reduced unnoticed tampering risk by **20%** in a simulated local environment. Distinguishes legitimate system activity from suspicious modifications.
-
-`Python` `File Integrity Monitoring` `SHA Hashing` `File Change Detection`
-
----
-
-### 🔴 [Secure EHR Analytics using Federated Learning & Homomorphic Encryption](https://github.com/amritofficial88/Secure-EHR-Analytics-using-FL-and-HE)
-> `Jun 2025 – Sep 2025`
-
-Privacy-preserving ML framework for Electronic Health Records. Combines **Federated Learning** (TFF) with **Homomorphic Encryption** for training on sensitive data without exposing it — addressing real-world healthcare data privacy under regulations like HIPAA.
-
-`TensorFlow Federated` `Homomorphic Encryption` `Python` `Privacy-Preserving ML`
-
----
-
-### 🟣 [IrisShield — Biometric Recognition System](https://github.com/amritofficial88/IrisShield_Bio-Metric-Recognition)
-> `Dec 2025 – Jan 2026`
-
-Iris recognition system using OpenCV: preprocessing, feature extraction, iris code generation, and best-match comparison. Practical implementation of biometric authentication used in physical access control and identity verification systems.
-
-`Python` `OpenCV` `Biometric Auth` `Computer Vision`
-
----
-
-## `$ cat skills.json`
-
-**SOC & Detection Engineering**
-
-![Alert Triage](https://img.shields.io/badge/Alert_Triage-000000?style=flat-square&logo=datadog&logoColor=03A062&color=03A062)
-![SIEM Splunk](https://img.shields.io/badge/SIEM_(Splunk)-000000?style=flat-square&logo=splunk&logoColor=03A062&color=03A062)
-![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=web&logoColor=03A062&color=03A062)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=flat-square&logo=databricks&logoColor=03A062&color=03A062)
-![NIST IR](https://img.shields.io/badge/NIST_IR_Lifecycle-000000?style=flat-square&logo=gov&logoColor=03A062&color=03A062)
-![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-000000?style=flat-square&logo=elastic&logoColor=03A062&color=03A062)
-![Incident Response](https://img.shields.io/badge/Incident_Response-000000?style=flat-square&logo=jira&logoColor=03A062&color=03A062)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-000000?style=flat-square&logo=databricks&logoColor=03A062&color=03A062)
-
-**Network & Forensics**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=03A062&color=03A062)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=03A062&color=03A062)
-![Suricata IDS](https://img.shields.io/badge/Suricata_IDS-000000?style=flat-square&logo=linux&logoColor=03A062&color=03A062)
-![PCAP Analysis](https://img.shields.io/badge/PCAP_Analysis-000000?style=flat-square&logo=wireshark&logoColor=03A062&color=03A062)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-000000?style=flat-square&logo=hackthebox&logoColor=03A062&color=03A062)
-![OSINT](https://img.shields.io/badge/OSINT-000000?style=flat-square&logo=duckduckgo&logoColor=03A062&color=03A062)
-
-**Offensive & Security Testing**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=03A062&color=03A062)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=03A062&color=03A062)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=03A062&color=03A062)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=03A062&color=03A062)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=hackthebox&logoColor=03A062&color=03A062)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=03A062&color=03A062)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=03A062&color=03A062)
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=flat-square&logo=powershell&logoColor=03A062&color=03A062)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=03A062&color=03A062)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-000000?style=flat-square&logo=virustotal&logoColor=03A062&color=03A062)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=03A062&color=03A062)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=03A062&color=03A062)
-![Microsoft Defender](https://img.shields.io/badge/MS_Defender_(EDR)-000000?style=flat-square&logo=microsoft&logoColor=03A062&color=03A062)
-
----
-
-## `$ cat certifications.txt`
-
-| Certification | Issuer | Status |
-|---|---|---|
-| 🛡️ Certified AppSec Practitioner (CAP) | The SecOps Group | ✅ Active |
-| 🔒 SC-900: Security, Compliance & Identity Fundamentals | Microsoft | ✅ Active |
-| 🌐 Certified Fundamentals in Cybersecurity (NSE1 & NSE2) | Fortinet | ✅ Active |
-| 🎯 CompTIA Security+ (SY0-701) | CompTIA | 🔄 On Progress |
-
-
----
-
-## `$ tail -f tryhackme_stats.log`
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_5%25_Global-03A062?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/deamritangshuSOC)
-
-> **100+ labs completed · Top 5% Global · 30+ Blue-Team Challenges Solved**
-> 
-> Detection · Lateral Movement Analysis · Log Correlation · SIEM Challenges
-
-</div>
-
----
-
-## `$ cat currently.md`
-
-```yaml
-🔭 Working On  : Building CVE tracker — root cause analysis, CVSS scoring, patch timelines and many more
-📚 Learning    : Advanced Splunk SPL queries | Researching on MAC Security
-🤝 Open To     : SOC Analyst · Threat Detection · Blue Team roles (Internship / Full-time)
-📍 Location    : Mumbai Metropolitan Region - India · Open to Work (Anywhere)
-```
-
----
-
-## `$ github_stats --dashboard`
-
-<div align="center">
-<!-- Single panoramic card: contribution graph + commit stats + language breakdown -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritofficial88&theme=github_dark" width="100%" alt="GitHub Profile Summary"/>
-</div>
-<div align="center">
-<!-- Stats + Languages side by side in one row -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritofficial88&theme=github_dark" width="32%" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritofficial88&theme=github_dark" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritofficial88&theme=github_dark" width="32%" alt="Most Commit Language"/>
-</div>
-<div align="center">
-<!-- GitHub Trophies — single row, full width -->
-<img src="https://github-profile-trophy.vercel.app/?username=amritofficial88&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
-
-## `$ contact --secure`
-
-<div align="center">
-
-| Channel | Address |
+| | |
 |---|---|
-| 📧 Email | [workspace.amritangshu@gmail.com](mailto:workspace.amritangshu@gmail.com) |
-| 🐦 X / Twitter | [@amritangshX2801](https://x.com/amritangshX2801) |
-| ✍️ Medium | [@amritangshu.official](https://medium.com/@amritangshu.official) |
-
-</div>
+| **Current Focus** | Security Operations & Blue Team |
+| **Specialization** | SOC Operations & Detection Engineering |
+| **Education** | B.Tech CSE — Cyber Security & Digital Forensics |
+| **University** | VIT Bhopal University |
+| **CGPA** | 8.68 |
+| **Location** | Mumbai Metropolitan Region, India |
+| **Availability** | Open to SOC & Blue Team opportunities |
 
 ---
 
-<div align="center">
+## 02 / THE SOC EXPERIENCE
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│   "The defender's job is never done. The attacker only needs    │
-│    to succeed once — we need to succeed every single time."     │
-└─────────────────────────────────────────────────────────────────┘
-```
+**Information Technology Intern — IRCTC (Indian Railways)**  
+*May 2025 – July 2025 · New Delhi, India*
 
-*SOC Analyst in training. Threat hunter by habit. Blue teamer by choice.*
+Worked with network security operations and investigation workflows, gaining practical exposure to security monitoring, threat intelligence, and incident assessment.
 
-</div>
-  
+- Developed a repository of **2,000+ IOCs and threat keywords**.
+- Helped reduce initial investigation time by approximately **30%**.
+- Investigated IPS and network security logs across NOC and Payment Gateway environments.
+- Performed severity assessment and escalation of high-impact incidents.
+- Differentiated potential threats from benign network activity.
 
+**Environment:** Splunk · VirusTotal · Network Log Analysis · MITRE ATT&CK
 
+---
 
+## 03 / SECURITY AT A GLANCE
 
+| Focus Area | Achievement |
+|---|---:|
+| IOC Intelligence Repository | 2,000+ indicators |
+| Investigation Efficiency | ~30% improvement |
+| Detection Engineering | 10+ Splunk & Sigma rules |
+| False Positive Reduction | 40% |
+| TryHackMe | 100+ labs completed |
+| Global TryHackMe Ranking | Top 5% |
+| Blue Team Challenges | 30+ |
+| CTF Achievement | 3rd Place — VITB Tech-Fest 2025 |
 
+---
 
+## 04 / SELECTED SECURITY PROJECTS
 
+### 01. Log Analysis & Detection Engineering
+**Splunk · Sigma · Windows Event Logs · MITRE ATT&CK**
 
+Developed 10+ detection rules using Windows EVTX telemetry. Investigated brute-force activity, suspicious PowerShell execution, and anomalous process behaviour. Improved detection quality with a reported 40% reduction in false positives.
 
+[Explore Projects](https://github.com/amritofficial88)
+
+### 02. Network Intrusion Detection & Traffic Analysis
+**Suricata IDS · Wireshark · PCAP Analysis**
+
+Analyzed 25+ security events generated through simulated attacks. Reviewed IDS alerts, investigated network traffic, and refined detection logic to distinguish malicious activity from legitimate behaviour.
+
+[Explore Projects](https://github.com/amritofficial88)
+
+### 03. Local File Integrity Monitoring
+**Python · Cryptographic Hashing · File Monitoring**
+
+Built a Python-based File Integrity Monitoring utility using cryptographic baselines to identify unauthorized file and directory modifications.
+
+[Explore Projects](https://github.com/amritofficial88)
+
+### 04. Secure EHR Analytics
+**Federated Learning · Homomorphic Encryption · TensorFlow**
+
+Developed a privacy-preserving analytics framework combining Federated Learning and Homomorphic Encryption to support machine learning on sensitive healthcare data.
+
+[View Repository](https://github.com/amritofficial88/Secure-EHR-Analytics-using-FL-and-HE)
+
+### 05. IrisShield — Biometric Recognition
+**Python · OpenCV · Biometric Authentication**
+
+Implemented an iris recognition system involving image preprocessing, feature extraction, iris code generation, and biometric matching.
+
+[View Repository](https://github.com/amritofficial88/IrisShield_Bio-Metric-Recognition)
+
+---
+
+## 05 / TECHNICAL ARSENAL
+
+**SOC & Security Operations**
+
+`Alert Triage` `Incident Response` `SIEM` `Splunk` `Wazuh` `Threat Intelligence` `IOC Analysis` `MITRE ATT&CK` `Sigma`
+
+**Detection & Investigation**
+
+`Detection Engineering` `Log Correlation` `Windows Event Logs` `PowerShell Analysis` `False Positive Analysis` `NIST IR`
+
+**Network Security & Forensics**
+
+`Wireshark` `Nmap` `Suricata` `PCAP Analysis` `Digital Forensics` `OSINT`
+
+**Security Testing**
+
+`Kali Linux` `Burp Suite` `Metasploit` `OWASP Top 10` `Ethical Hacking`
+
+**Scripting & Platforms**
+
+`Python` `Bash` `PowerShell` `SQL` `VirusTotal` `AWS` `Power BI` `Microsoft Defender`
+
+---
+
+## 06 / CERTIFICATIONS
+
+| Certification | Issuing Organization |
+|---|---|
+| Certified AppSec Practitioner (CAP) | The SecOps Group |
+| SC-900: Security, Compliance & Identity Fundamentals | Microsoft |
+| NSE 1 & NSE 2 | Fortinet |
+| CompTIA Security+ (SY0-701) | In Progress |
+
+---
+
+## 07 / CONTINUOUS LEARNING
+
+**TryHackMe — Top 5% Globally**
+
+100+ hands-on labs completed, with 30+ Blue Team challenges involving:
+
+- Security event investigation
+- Threat detection and analysis
+- Lateral movement investigation
+- Log correlation
+- SIEM-based challenges
+
+[View TryHackMe Profile](https://tryhackme.com/p/deamritangshuSOC)
+
+**Currently Exploring**
+
+- Advanced Splunk SPL and detection development
+- CVE research, CVSS scoring and vulnerability analysis
+- macOS security
+- Threat hunting and incident investigation
+
+---
+
+## 08 / GITHUB ACTIVITY
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritofficial88&theme=github_dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritofficial88&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritofficial88&theme=github_dark)
+
+---
+
+## 09 / CONNECT
+
+Interested in cybersecurity, SOC operations, threat detection, and blue-team collaboration?
+
+I'm always open to meaningful technical discussions, research collaborations, and professional opportunities.
+
+**Email:** [workspace.amritangshu@gmail.com](mailto:workspace.amritangshu@gmail.com)
+
+**LinkedIn:** [Let's Connect](https://www.linkedin.com/in/amritangshu-dey-infosec/)
+
+**GitHub:** [@amritofficial88](https://github.com/amritofficial88)
+
+---
+
+<p align="center">
+
+**SECURITY IS NOT A SINGLE EVENT. IT IS CONTINUOUS VIGILANCE.**
+
+*Monitor. Investigate. Detect. Respond.*
+
+</p>
